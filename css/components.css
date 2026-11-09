@@ -111,3 +111,10 @@ legend {
   font-weight: 700;
   padding: 0 var(--space-1);
 }
+
+.ikon-404 {
+  display: block;
+  width: min(100%, 320px);
+  height: auto;
+  margin: 0 auto var(--space-2);
+}
